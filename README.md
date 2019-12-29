@@ -1,1 +1,1 @@
-# edication-K12-code
+# code of education projects
